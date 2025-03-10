@@ -1,0 +1,40 @@
+:root {
+  font-family: "Jersey 15", serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0.2px;
+}
+
+strong {
+  font-weight: 400;
+  font-style: normal;
+}
+
+button, a {
+  font-family: inherit;
+  font-weight: 400;
+  font-style: normal;
+}
